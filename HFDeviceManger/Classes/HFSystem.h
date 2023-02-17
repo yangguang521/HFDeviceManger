@@ -1,5 +1,5 @@
 //
-//  HFDevice.h
+//  HFSystem.h
 //  HFDeviceManger
 //
 //  Created by Joe on 2023/2/17.
@@ -9,10 +9,9 @@
 
 NS_ASSUME_NONNULL_BEGIN
 
-@interface HFDevice : NSObject
+@interface HFSystem : NSObject
 
-+ (CGSize)getCurrentDeviceSize;
-+ (NSString *)getCurrentDeviceSystem;
++ (NSString *)getCurrentSystem;
 
 @end
 

@@ -8,6 +8,7 @@
 
 #import "HFAppDelegate.h"
 #import "HFDevice.h"
+#import "HFSystem.h"
 
 @implementation HFAppDelegate
 
@@ -15,6 +16,9 @@
 {
     // Override point for customization after application launch.
     [HFDevice getCurrentDeviceSize];
+    [HFDevice getCurrentDeviceSystem];
+    [HFSystem getCurrentSystem];
+    
     return YES;
 }
 

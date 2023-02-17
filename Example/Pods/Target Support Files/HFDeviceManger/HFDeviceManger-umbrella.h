@@ -12,6 +12,7 @@
 
 #import "HFDevice.h"
 #import "HFDeviceMangerHeader.h"
+#import "HFSystem.h"
 
 FOUNDATION_EXPORT double HFDeviceMangerVersionNumber;
 FOUNDATION_EXPORT const unsigned char HFDeviceMangerVersionString[];

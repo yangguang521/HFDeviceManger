@@ -1,5 +1,5 @@
 PODS:
-  - HFDeviceManger (0.0.1)
+  - HFDeviceManger (0.0.3)
 
 DEPENDENCIES:
   - HFDeviceManger (from `../`)
@@ -9,7 +9,7 @@ EXTERNAL SOURCES:
     :path: "../"
 
 SPEC CHECKSUMS:
-  HFDeviceManger: 2cca797a8a2dccc8f420ea8cbb83b99ae07d77a3
+  HFDeviceManger: 9475ecdc16b69dce7ad953ab05330db73bc297a7
 
 PODFILE CHECKSUM: f98f7c019a36d1a05647be48bbc9931f82914751
 
