@@ -47,18 +47,18 @@
 		29B690A19F1CA55A61F252A7232FD999 /* Pods-HFDeviceManger_Example-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-HFDeviceManger_Example-Info.plist"; sourceTree = "<group>"; };
 		2CE5D29903A9A08D224F48B3103E8935 /* Pods-HFDeviceManger_Example */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = "Pods-HFDeviceManger_Example"; path = Pods_HFDeviceManger_Example.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		39941E75C983FEA12935EFBEC6B459BA /* Pods-HFDeviceManger_Example-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-HFDeviceManger_Example-acknowledgements.plist"; sourceTree = "<group>"; };
-		39C31DE6AD3EDE7992E26CA3A50AB646 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; path = LICENSE; sourceTree = "<group>"; };
+		39C31DE6AD3EDE7992E26CA3A50AB646 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = LICENSE; sourceTree = "<group>"; };
 		3A0960C5A1E5B30A6653C43065DD98C3 /* HFDevice.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = HFDevice.h; path = HFDeviceManger/Classes/HFDevice.h; sourceTree = "<group>"; };
 		40AADDDDA4A004C482D95154280C9590 /* HFSystem.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = HFSystem.m; path = HFDeviceManger/Classes/HFSystem.m; sourceTree = "<group>"; };
 		5FAE797F94A84F0730319D5AB742E38E /* Pods-HFDeviceManger_Tests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-HFDeviceManger_Tests.debug.xcconfig"; sourceTree = "<group>"; };
 		64AE46A5BF9464D79E8864E6E6E4F125 /* Pods-HFDeviceManger_Tests */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = "Pods-HFDeviceManger_Tests"; path = Pods_HFDeviceManger_Tests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		6639D08FE5603BEC81E95A59635B10F0 /* Pods-HFDeviceManger_Tests-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-HFDeviceManger_Tests-umbrella.h"; sourceTree = "<group>"; };
 		725FD239FE1C79C2CF6D9B2CC887E78F /* Pods-HFDeviceManger_Tests-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-HFDeviceManger_Tests-acknowledgements.markdown"; sourceTree = "<group>"; };
-		727AC7D08A884D9922044FF0DB677EE6 /* HFDeviceManger.podspec */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; lastKnownFileType = text; path = HFDeviceManger.podspec; sourceTree = "<group>"; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		727AC7D08A884D9922044FF0DB677EE6 /* HFDeviceManger.podspec */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; path = HFDeviceManger.podspec; sourceTree = "<group>"; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		73010CC983E3809BECEE5348DA1BB8C6 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS14.0.sdk/System/Library/Frameworks/Foundation.framework; sourceTree = DEVELOPER_DIR; };
 		777C8021029C1D377BB11C48CFF5EA6E /* Pods-HFDeviceManger_Example-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-HFDeviceManger_Example-acknowledgements.markdown"; sourceTree = "<group>"; };
 		79C6C2C071C5997F56EAA8E9D65230ED /* Pods-HFDeviceManger_Tests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-HFDeviceManger_Tests.release.xcconfig"; sourceTree = "<group>"; };
-		7B1695943262FFD96F5BA9C388FC92A7 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; path = README.md; sourceTree = "<group>"; };
+		7B1695943262FFD96F5BA9C388FC92A7 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		7BFE176E622D41866DBA023AAB1FC8A0 /* HFDeviceManger.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = HFDeviceManger.modulemap; sourceTree = "<group>"; };
 		845DCA5B3577F9486B582F6F2464595E /* Pods-HFDeviceManger_Tests-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-HFDeviceManger_Tests-dummy.m"; sourceTree = "<group>"; };
 		9037BFF64B1812732604552B097AD1CA /* HFDevice.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = HFDevice.m; path = HFDeviceManger/Classes/HFDevice.m; sourceTree = "<group>"; };
@@ -66,7 +66,7 @@
 		95C075FC29CAEAFC668649669A1B2145 /* HFDeviceManger-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "HFDeviceManger-dummy.m"; sourceTree = "<group>"; };
 		9B058A2D5A8646C3E4FA9E9728453340 /* HFDeviceManger-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "HFDeviceManger-Info.plist"; sourceTree = "<group>"; };
 		9D7F57372EC1DF60CAB957F51F9676A9 /* HFDeviceMangerHeader.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = HFDeviceMangerHeader.h; path = HFDeviceManger/Classes/HFDeviceMangerHeader.h; sourceTree = "<group>"; };
-		9D940727FF8FB9C785EB98E56350EF41 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; lastKnownFileType = text; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		9D940727FF8FB9C785EB98E56350EF41 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		A27C02B33D33FD43711928E0B70E70D4 /* Pods-HFDeviceManger_Example-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-HFDeviceManger_Example-dummy.m"; sourceTree = "<group>"; };
 		AD7CFEB2D3A87A7DD170FD6CE2F84AC4 /* Pods-HFDeviceManger_Example-frameworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-HFDeviceManger_Example-frameworks.sh"; sourceTree = "<group>"; };
 		D451E50C1A3A1100D515AA1880E4F278 /* Pods-HFDeviceManger_Tests-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-HFDeviceManger_Tests-acknowledgements.plist"; sourceTree = "<group>"; };
@@ -177,9 +177,9 @@
 		C622CD6E5CE6C43E1754EA5A7382F67D /* HFDeviceManger */ = {
 			isa = PBXGroup;
 			children = (
+				9D7F57372EC1DF60CAB957F51F9676A9 /* HFDeviceMangerHeader.h */,
 				3A0960C5A1E5B30A6653C43065DD98C3 /* HFDevice.h */,
 				9037BFF64B1812732604552B097AD1CA /* HFDevice.m */,
-				9D7F57372EC1DF60CAB957F51F9676A9 /* HFDeviceMangerHeader.h */,
 				1A8EFFE78C57E716D94E44D4CDC0BC41 /* HFSystem.h */,
 				40AADDDDA4A004C482D95154280C9590 /* HFSystem.m */,
 				FDEC10FB97F971016C74FFD54D8F6EBA /* Pod */,
@@ -573,8 +573,7 @@
 				MTL_FAST_MATH = YES;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				STRIP_INSTALLED_PRODUCT = NO;
-				SWIFT_COMPILATION_MODE = wholemodule;
-				SWIFT_OPTIMIZATION_LEVEL = "-O";
+				SWIFT_OPTIMIZATION_LEVEL = "-Owholemodule";
 				SWIFT_VERSION = 5.0;
 				SYMROOT = "${SRCROOT}/../build";
 			};
