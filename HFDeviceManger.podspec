@@ -30,8 +30,8 @@ TODO: Add long description of the pod here.
 
   s.ios.deployment_target = '10.0'
 
-  s.public_header_files = 'HFDeviceMangerHeader/Classes/HFDeviceMangerHeader.h'
-  s.source_files = 'HFDeviceMangerHeader/Classes/*'
+  s.prefix_header_file = 'HFDeviceManger/Classes/HFDeviceMangerHeader.h'
+  s.source_files = 'HFDeviceManger/Classes/*'
   
   # s.resource_bundles = {
   #   'HFDeviceManger' => ['HFDeviceManger/Assets/*.png']
