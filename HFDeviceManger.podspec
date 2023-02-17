@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'HFDeviceManger'
-  s.version          = '0.0.1'
+  s.version          = '0.0.2'
   s.summary          = '一个简单的设备管理工具.'
 
 # This description is used to generate tags and improve search results.
@@ -21,11 +21,11 @@ Pod::Spec.new do |s|
 TODO: Add long description of the pod here.
                        DESC
 
-  s.homepage         = 'https://github.com/joe/HFDeviceManger'
+  s.homepage         = 'https://github.com/yangguang521/HFDeviceManger.git'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'joe' => 'huangsf@umer.com.cn' }
-  s.source           = { :git => 'https://github.com/joe/HFDeviceManger.git', :tag => s.version.to_s }
+  s.source           = { :git => 'https://github.com/yangguang521/HFDeviceManger.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
   s.ios.deployment_target = '10.0'
