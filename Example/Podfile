@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '10.0'
+
+target 'HFDeviceManger_Example' do
+  pod 'HFDeviceManger', :path => '../'
+
+  target 'HFDeviceManger_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
