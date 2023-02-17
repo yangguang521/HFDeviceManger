@@ -7,12 +7,14 @@
 //
 
 #import "HFAppDelegate.h"
+#import "HFDevice.h"
 
 @implementation HFAppDelegate
 
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions
 {
     // Override point for customization after application launch.
+    [HFDevice getCurrentDeviceSize];
     return YES;
 }
 
